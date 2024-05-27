@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **frontend frameworks**
 
-- 👨‍💻 All of my projects are available at [www.emilyknott.com](www.emilyknott.com)
+- 👨‍💻 All of my projects are shown at [www.emilyknott.com](www.emilyknott.com)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **emilyknott.dev@gmail.com**
 
-- ⚡ Fun fact **I hung out with Gordon Ramsay in a strip club and he was super nice**
+- ⚡ Fun fact **I can identify almost any celebrity but just their voice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
