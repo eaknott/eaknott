@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **emilyknott.dev@gmail.com**
 
-- ⚡ Fun fact **I can identify almost any celebrity but just their voice**
+- ⚡ Fun fact **I can identify almost any celebrity by just their voice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
