@@ -29,10 +29,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaknott&show_icons=true&locale=en&layout=compact" alt="eaknott" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaknott&show_icons=true&locale=en" alt="eaknott" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaknott&" alt="eaknott" /></p>
