@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a real estate website](https://github.com/eaknott/btre-project)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **Solidity**
 
 - 👨‍💻 All of my projects are available at [www.emilyknott.com](www.emilyknott.com)
 
