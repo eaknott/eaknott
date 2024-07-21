@@ -9,9 +9,11 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **emilyknott.dev@gmail.com**
+- 📫 How to reach me: **emilyknott.dev@gmail.com**
 
-- ⚡ Fun fact **I can identify almost any celebrity by just their voice**
+- ⚡ Fun fact: **I can identify almost any celebrity by just their voice**
+  
+- 📖 More fun facts: **I adopted 2 boy cats from these streets and they're Linus and Cash**, **I love escape rooms and trivia**, and **I love learning languages, human or computer**
 
 # 🌐 Connect with Me:
 <p align="left">
