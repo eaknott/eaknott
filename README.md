@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Emily</h1>
 <h3 align="center">A full-stack developer based in Taipei</h3>
 
-- 🔭 I’m currently working on [a real estate website](https://github.com/eaknott/btre-project)
+- 🔭 I’m currently working on **contributing to more open source projects**
 
 - 🌱 I’m currently learning **AWS** and **Solidity**  
-  
-- 🤿 I'm looking for **open source projects to contribute to**
 
 - 👨‍💻 All of my projects are available at [www.emilyknott.com](www.emilyknott.com)
 
