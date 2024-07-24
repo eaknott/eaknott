@@ -1,4 +1,4 @@
-
+<div align="center"><img src="https://github.com/user-attachments/assets/6e264578-3ce5-493a-9357-7e68cf4911ee" width="75" /></div>
 <h1 align="center">Hi there 👋, I'm Emily</h1>
 <h3 align="center">A full-stack developer based in Taipei</h3>
 
