@@ -15,7 +15,7 @@
 - ⚡ Fun fact: **I can identify almost any celebrity by just their voice**
   
 - 📖 More fun facts:  
-  I adopted 2 boy cats ![IMG_1179](https://github.com/user-attachments/assets/4d69e6f0-ba8a-4571-a77f-04e871cd0d2e)
+  I adopted 2 boy cats 
 from these streets and they're Linus and Cash,  
   I love escape rooms and trivia,  
   and I love learning languages, human or computer  
