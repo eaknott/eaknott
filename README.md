@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Emily</h1>
 <h3 align="center">A full-stack developer based in Taipei</h3>
 
-- 🔭 I’m currently working on **contributing to more open source projects**
+- 🔭 I’m currently working on **more open source contributions**
 
 - 🌱 I’m currently learning **AWS** and **Solidity**  
 
@@ -10,15 +10,11 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me: **emilyknott.dev@gmail.com**
-
-- ⚡ Fun fact: **I can identify almost any celebrity by just their voice**
-  
-- 📖 More fun facts:  
-  I adopted 2 boy cats 
-from these streets and they're Linus and Cash,  
-  I love escape rooms and trivia,  
-  and I love learning languages, human or computer  
+- ⚡ Fun facts:
+  **I can identify almost any celebrity by just their voice**  
+  I adopted 2 boy cats from these streets and they're Linus and Cash  
+  I love escape rooms and trivia  
+  I love learning languages, human or computer  
 
 # 🌐 Connect with Me:
 <p align="left">
