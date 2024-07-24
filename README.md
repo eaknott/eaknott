@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS** and **Solidity**  
 
-- 👨‍💻 All of my projects are available at [www.emilyknott.com](www.emilyknott.com)
+- 👨‍💻 All of my projects are available at [www.emilyknott.com](https://www.emilyknott.com)
 
 - 💬 Ask me about **React**
 
