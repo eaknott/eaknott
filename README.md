@@ -14,8 +14,6 @@
 
 # 🌐 Connect with Me:
 <p align="left">
-<a href="https://codepen.io/eaknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/i![GitHub profile banner](https://github.com/user-attachments/assets/a2957bb2-fd32-4e57-9e7b-303f1ba3acb2)
-cons/Social/codepen.svg" alt="eaknott" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emilyaknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilyaknott" height="30" width="40" /></a>
 <a href="https://instagram.com/itsemilyknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsemilyknott" height="30" width="40" /></a>
 </p>
