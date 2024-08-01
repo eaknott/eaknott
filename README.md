@@ -1,14 +1,10 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/07b98d8c-fb8a-43f6-b6dc-c113d2baeecb" width="550" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/07b98d8c-fb8a-43f6-b6dc-c113d2baeecb" /></div>
 <!-- <h1 align="center">Welcome to my GitHub! 🫧 I'm Emily</h1> -->
-<h3 align="center">A software engineer based in Taipei</h3>
+<h3 align="center">React Specialist Based in Taipei</h3>
 
 - 🔭 I’m currently working on **more open source contributions**
 
-- 🌱 I’m currently learning **AWS** and **Solidity**  
-
-- 👨‍💻 All of my projects are available at [www.emilyknott.com](https://www.emilyknott.com)
-
-- 💬 Ask me about **React**
+- 👨‍💻 Visit my website: [www.emilyknott.com](https://www.emilyknott.com)
 
 - ⚡ Fun facts:
   **I can identify almost any celebrity by just their voice**  
