@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/6eee2c09-eb60-4ba7-bd5b-1cd2cf9cfe53" alt="Custom GitHub Banner" /></div>
 <br />
 <div align="center">  
-<a href="https://www.linkedin.com/in/emilyaknott/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?labelColor=0b132b&style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emilyaknott/" alt="LinkedIn" width="200" /></a>  
+<a href="https://www.linkedin.com/in/emilyaknott/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?labelColor=0b132b&style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emilyaknott/" alt="LinkedIn" height="30" /></a>  
  &nbsp;  
  &nbsp;  
  &nbsp;  
@@ -12,7 +12,7 @@
  &nbsp;  
  &nbsp;  
  &nbsp;  
-<a href="https://www.emilyknott.com/"><img src="https://img.shields.io/badge/Website-Visit-c8b8db?labelColor=0b132b&style=flat&logo=React&logoColor=white&link=https://www.emilyknott.com/" alt="Website" width="200" /></a> 
+<a href="https://www.emilyknott.com/"><img src="https://img.shields.io/badge/Website-Visit-c8b8db?labelColor=0b132b&style=flat&logo=React&logoColor=white&link=https://www.emilyknott.com/" alt="Website" height="30" /></a> 
  &nbsp;  
  &nbsp;  
  &nbsp;  
@@ -23,7 +23,7 @@
  &nbsp;  
  &nbsp;  
  &nbsp;  
-<a href="https://www.instagram.com/itsemilyknott/"><img src="https://img.shields.io/badge/Instagram-Follow-fbad50?labelColor=0b132b&style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsemilyknott/" alt="Instagram" width="200" /></a>
+<a href="https://www.instagram.com/itsemilyknott/"><img src="https://img.shields.io/badge/Instagram-Follow-fbad50?labelColor=0b132b&style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsemilyknott/" alt="Instagram" height="30" /></a>
 </div>
 <h3 align="center">React Specialist 🫧 Based in Taipei</h3>
 
