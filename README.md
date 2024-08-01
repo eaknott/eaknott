@@ -1,5 +1,5 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/07b98d8c-fb8a-43f6-b6dc-c113d2baeecb" width="250" /></div>
-<h1 align="center">Welcome to my GitHub! 🫧 I'm Emily</h1>
+<div align="center"><img src="https://github.com/user-attachments/assets/07b98d8c-fb8a-43f6-b6dc-c113d2baeecb" width="550" /></div>
+<!-- <h1 align="center">Welcome to my GitHub! 🫧 I'm Emily</h1> -->
 <h3 align="center">A software engineer based in Taipei</h3>
 
 - 🔭 I’m currently working on **more open source contributions**
