@@ -1,6 +1,6 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/07b98d8c-fb8a-43f6-b6dc-c113d2baeecb" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/6eee2c09-eb60-4ba7-bd5b-1cd2cf9cfe53" /></div>
 <!-- <h1 align="center">Welcome to my GitHub! 🫧 I'm Emily</h1> -->
-<h3 align="center">React Specialist Based in Taipei</h3>
+<h3 align="center">React Specialist 🫧 Based in Taipei</h3>
 
 - 🔭 I’m currently working on **more open source contributions**
 
