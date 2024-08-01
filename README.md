@@ -1,5 +1,30 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/6eee2c09-eb60-4ba7-bd5b-1cd2cf9cfe53" /></div>
-<!-- <h1 align="center">Welcome to my GitHub! 🫧 I'm Emily</h1> -->
+<div align="center"><img src="https://github.com/user-attachments/assets/6eee2c09-eb60-4ba7-bd5b-1cd2cf9cfe53" alt="Custom GitHub Banner" /></div>
+<br />
+<div align="center" display="flex">  
+<a href="https://www.linkedin.com/in/emilyaknott/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?labelColor=0b132b&style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emilyaknott/" alt="LinkedIn" width="200" /></a>  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+<a href="https://www.emilyknott.com/"><img src="https://img.shields.io/badge/Website-Visit-c8b8db?labelColor=0b132b&style=flat&logo=React&logoColor=white&link=https://www.emilyknott.com/" alt="Website" width="200" /></a> 
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+<a href="https://www.instagram.com/itsemilyknott/"><img src="https://img.shields.io/badge/Instagram-Connect-d62976?labelColor=0b132b&style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsemilyknott/" alt="Instagram" width="200" /></a> 
+</div>
 <h3 align="center">React Specialist 🫧 Based in Taipei</h3>
 
 - 🔭 I’m currently working on **more open source contributions**
