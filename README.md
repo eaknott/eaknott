@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/6e264578-3ce5-493a-9357-7e68cf4911ee" width="75" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/07b98d8c-fb8a-43f6-b6dc-c113d2baeecb" width="250" /></div>
 <h1 align="center">Welcome to my GitHub! 🫧 I'm Emily</h1>
 <h3 align="center">A software engineer based in Taipei</h3>
 
@@ -18,7 +18,8 @@
 
 # 🌐 Connect with Me:
 <p align="left">
-<a href="https://codepen.io/eaknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eaknott" height="30" width="40" /></a>
+<a href="https://codepen.io/eaknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/i![GitHub profile banner](https://github.com/user-attachments/assets/a2957bb2-fd32-4e57-9e7b-303f1ba3acb2)
+cons/Social/codepen.svg" alt="eaknott" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emilyaknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilyaknott" height="30" width="40" /></a>
 <a href="https://instagram.com/itsemilyknott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsemilyknott" height="30" width="40" /></a>
 </p>
