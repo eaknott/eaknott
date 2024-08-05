@@ -30,7 +30,6 @@
 - 🔭 I’m currently working on **more open source contributions**
 
 - ⚡ Fun facts:
-  **I can identify almost any celebrity by just their voice**  
   I adopted 2 boy cats from these streets and they're Linus and Cash  
   I love escape rooms and trivia  
   I love learning languages, human or computer  
