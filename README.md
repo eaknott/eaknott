@@ -23,7 +23,7 @@
  &nbsp;  
  &nbsp;  
  &nbsp;  
-<a href="https://www.instagram.com/itsemilyknott/"><img src="https://img.shields.io/badge/Instagram-Follow-fbad50?labelColor=0b132b&style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsemilyknott/" alt="Instagram" height="30" /></a>
+<a href="https://www.instagram.com/itsemilyknott/"><img src="https://img.shields.io/badge/Instagram-Follow-833AB4?labelColor=0b132b&style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsemilyknott/" alt="Instagram" height="30" /></a>
 </div>
 <h3 align="center">React Specialist 🫧 Based in Taipei</h3>
 
