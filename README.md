@@ -27,7 +27,7 @@
 </div>
 <h3 align="center">React Specialist 🫧 Based in Taipei</h3>
 
-- 🔭 I’m currently working on **more open source contributions**
+- 🔭 I’m currently working on **optimizing sites for web accessibility, responsive design, and UI design**
 
 - ⚡ Fun facts:
   I adopted 2 boy cats from these streets and they're Linus and Cash  
