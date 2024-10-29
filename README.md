@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/6eee2c09-eb60-4ba7-bd5b-1cd2cf9cfe53" alt="Custom GitHub Banner" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/0a0158ae-4ed7-48cf-a3b2-396817e95f39" alt="Custom GitHub Banner" /></div>
 <br />
 <div align="center">  
 <a href="https://www.linkedin.com/in/emilyaknott/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?labelColor=0b132b&style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emilyaknott/" alt="LinkedIn" height="30" /></a>  
